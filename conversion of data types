@@ -1,0 +1,9 @@
+class Conversion {
+
+	public static void main(String[] args) {
+	int num=21;
+	System.out.println("Int num = " + num + "\n When converted to long data type ,num = " + (long)num);
+	System.out.println("Long num = " + num + "\n When converted to float data type , num = " + (float)num);
+	}
+
+}
