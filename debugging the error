@@ -1,0 +1,10 @@
+class Kcg
+{
+public static void main(String[] args)
+{
+char a;
+a='s';
+int s=95;
+a=(char)s;
+}
+}
